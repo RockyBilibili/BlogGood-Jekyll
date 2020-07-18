@@ -2,7 +2,10 @@
 # Blog Good
 这是一个开源博客.
 
-Jekyll是一个静态站点生成器，非常适合GitHub托管的博客（(Jekyll Repository)[https://github.com/jekyll/jekyll]）
+Jekyll是一个静态站点生成器，非常适合GitHub托管的博客
+
+(Jekyll Repository)[https://github.com/jekyll/jekyll]
+
 This is a Open Source blog.
 
 _**Jekyll**_ is a static site generator that's perfect for GitHub hosted blogs ((Jekyll Repository)[https://github.com/jekyll/jekyll])
