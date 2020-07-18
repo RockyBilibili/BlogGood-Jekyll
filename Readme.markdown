@@ -9,7 +9,7 @@ Jekyll是一个静态站点生成器，非常适合GitHub托管的博客
 
 This is a Open Source blog.
 
-_**Jekyll**_ is a static site generator that's perfect for GitHub hosted blogs ((Jekyll Repository)[https://github.com/jekyll/jekyll])
+_**Jekyll**_ is a static site generator that's perfect for GitHub hosted blogs.
 ## 文件层级
 ```
 _includes - 1 files:   Folder
