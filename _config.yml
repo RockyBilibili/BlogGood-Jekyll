@@ -13,13 +13,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # 这是联系方式，必填。
-footer-links: # 这里不用填东西
-  github: # GitHub 用户名 必填
-  qq: 1218374083  # QQ号 必填
+github: # GitHub 用户名 必填
+qq: 1218374083  # QQ号 必填
 
 
 url:
-baseurl: # 地址，如rocky-co.github.io或rocky.net/com/...
+baseurl: # 地址，如rocky-co.github.io或rocky.net...
 
 #
 # !! You don't need to change any of the configuration flags below !!
