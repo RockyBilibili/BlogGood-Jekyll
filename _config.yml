@@ -1,12 +1,12 @@
 # 你的名字
-name: RockyXY
+name: Rocky
 
 # 博客描述
-description: GOOD
+description: f
 
 # 你的LOGO（头像，推荐100x100（必须10x10到200x200之内）），这里用这个项目大部分使用的Jekyll的LOGO，
 # 地址是GitHub的文件存储，大陆用户打不开，推荐新建ORG，再使用GitHub Pages上传图片。
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://rockybilibili.github.io/logo.png
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ github: RockyBilibili  # <-GitHub 用户名 必填
 qq: 1218374083  # QQ号 必填
 
 
-url:
+url: https://rockybilibili.github.io 
 baseurl: https://rockybilibili.github.io # 地址，如rocky-co.github.io或rocky.net...
 
 #
